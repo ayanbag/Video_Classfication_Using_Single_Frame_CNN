@@ -39,7 +39,7 @@ Here, due limitation in computation power, we are building a classifier to class
 ![Single-Frame-CNN-Architecture](https://user-images.githubusercontent.com/28982255/147768759-0220ba06-969e-4410-a570-3b42d7061d18.jpg)
 
 
-In single-frame CNN, , we will run an image classification model on every single frame of the video and then average all the individual probabilities to get the final probabilities vector. This approach does perform really well, and we implement it in this UCF50 dataset.
+In single-frame CNN, , we will run an image classification model on every single frame of the video and then average all the individual probabilities to get the final probabilities vector. This approach does perform really well, and we implement it with UCF50 dataset.
 
 ## Model
 
