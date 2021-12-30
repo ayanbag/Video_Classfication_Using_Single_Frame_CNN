@@ -57,7 +57,6 @@ python predict_video.py
 
 ## Results
 
-![](visualizations/Total_Accuracy_vs_Total_Validation_Accuracy.png)
+![](visualizations/plot.png)
 
-![](visualizations/Total_Loss_vs_Total_Validation_Loss.png)
 
